@@ -8,3 +8,5 @@ Economics Projects
 # Tasks:
 - Scheduled Reports/Updates
 - Models
+- Nash's Theorem
+
