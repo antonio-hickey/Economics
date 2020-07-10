@@ -1,15 +1,10 @@
 # Economics
 Economics Projects 
 # Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. [Yeild Curve](https://git.io/JJmXF)
+2. [Monetary Policy](https://git.io/JJmXb)
+3. [Game Theory](https://git.io/JJmXN)
 
 # Tasks:
-- Web Scrapper
-- Data Cleaning
-- Data Exploration
-- Data Analysis
 - Scheduled Reports/Updates
 - Models
