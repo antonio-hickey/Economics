@@ -6,7 +6,6 @@ Economics Projects
 3. [Game Theory](https://git.io/JJmXN)
 
 # Tasks:
-- Scheduled Reports/Updates
 - Models
-- Nash's Theorem
+
 
